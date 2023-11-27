@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Sign Up</h1>
-    <form action="album.html" method="post">
+    <form action="Album.html" method="post">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required>
         <br>
